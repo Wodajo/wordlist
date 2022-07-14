@@ -6,7 +6,8 @@ dirb  dirbuster  fasttrack.txt  fern-wifi  metasploit  nmap.lst  wfuzz
 ```
 deleted `rockyou.txt.gz` - it's in SecLists `Passwords/Leaked-Databases/`
 
-- [SecList](https://github.com/danielmiessler/SecLists)
+- [SecList](https://github.com/danielmiessler/SecLists)  
+without Payloads & Web-Shells
 
 
 Serves as a frame of reference for arch reinstallations (don't have to be bleeding edge) 
